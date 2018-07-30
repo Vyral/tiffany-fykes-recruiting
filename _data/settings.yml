@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: FYKES Leadership Training
+description: Tiffany Fykes, a top Real Estate Agent in Nashville, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,42 +14,44 @@ custom_links:
 
 
 client:
-  name:
+  name: Tiffany Fykes
   title:
   license_number:
   about_markdown: |
+    Ranking in the top 1% of all real estate agents across the country, having built a million dollar business in less than 4 years, and having more than 8 years of experience under her belt, Tiffany Fykes has developed a vast knowledge of the ever-changing business of real estate.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    The founder and CEO of FYKES Realty Group, Tiffany’s goal is to share what she knows with others. Her influence spans to reach many individuals across the country as she has taught all the way from Seattle to Baltimore to Atlanta and on the stages of Family Reunion. Her teachings are geared towards growth through professional development courses and Wealthy Agent Mindset (WAM), which is Tiffany’s recurring speaking engagement that teaches agents how to build wealth. She also fosters and encourages a deep value and love of balancing personal lives in a professional world through creating experiences.
+  market: Nashville
+  brand: The FYKES Realty Group
+  brokerage: Keller Williams
+  address: 4811 Trousdale Dr. Suite-D, Nashville, TN 37220
+  phone: 615-427-8436
   phone_type:
   phone2:
   phone2_type:
   email:
-  url:
+  url: https://www.FykesRealtyGroup.com
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  show_section: true
+  header_text: Senior Buyer's Agent
+  headshot_path: /img/lender-headshot.jpg
+  # logo_path: /img/logo.png
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: John Griffin
+  # brand: Lender Co.
+  # phone: 555-555-5555
+  # email: bill@murray.com
+  # url: http://eyegoop.com
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/FykesRealtyGroup/
+  linkedin_url: https://www.linkedin.com/company/fyk-realty-group/
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/fykesrealty
+  instagram_url: https://www.instagram.com/fykesrealtynashville/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,8 +76,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#d31145'
+  theme_color: '#a7a9ac'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
