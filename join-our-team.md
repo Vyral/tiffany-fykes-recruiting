@@ -24,43 +24,43 @@ permalink: /join-our-team/
 
 <p><strong>Or maybe you’re just looking for something…more.</strong></p>
 
-<p>If you relate to any of these experiences, you wouldn’t be the first. Real estate as an industry doesn’t merely hand you wealth. In fact, 87% of first-time agents fail within their first two years in the business and leave it forever. Furthermore, <strong>the average first-year agent sells only four homes in their first year, meaning that they’re bringing home less than $17,000.</strong> That’s below the poverty line.</p>
+<p>If you relate to any of these experiences, you wouldn’t be the first. Real estate as an industry doesn’t merely hand you wealth or create the life you want. In fact, 87% of first-time agents fail within their first two years in the business and leave it forever. Furthermore, <strong>the average first-year agent in Middle Tennessee sells only four homes in their first year, meaning that they’re bringing home less than $17,000.</strong> That’s below the poverty line.</p>
 
 <p>Let me emphasize something: It does not have to be that way for you.</p>
 
 <p>If you are an agent looking for something different, something better, or you’re not yet an agent but have the drive to create change in the industry and in your community, I’m here to let you know that <strong>you absolutely can.</strong> And while you’re doing that, you can also make a six-figure income every year.</p>
 
-<p>I built my business back in 2008, when agents and consumers both were fleeing the market in droves. The industry declined, but my business flourished. Within four years, <strong>I had established a team that was producing more than $1 million consistently.</strong> Last year, the average agent on our team made over $120,000. In their second year on our team, none of our agents made less than six-figure incomes.</p>
+<p>I built my business back in 2009, when agents and consumers both were fleeing the market in droves. The industry declined, but my business flourished. Within four years, <strong>I had established a team that was producing more than $1 million consistently in that declining market.</strong> Last year, the average agent on our team made over $120,000. In their second year on our team, none of our agents make less than six-figure incomes.</p>
 
 <p>Doesn’t that sound nice? Of course it does. I’m not just encouraging you, but challenging you to make that kind of success happen for yourself. <strong>All you have to do is join our team.</strong></p>
 
-<p>I’m looking for agents who want to work with us to implement all the systems and tools needed to build consistent and reliable wealth through selling real estate. </p>
+<p>I’m looking for agents who want to work with us to implement all the systems and tools needed to build consistent and reliable wealth through selling real estate.</p>
 
-<p><strong>Our mission is to change the industry.</strong> We can accomplish this together by treating every challenge as a learning opportunity and by providing top-tier service to each and every person who seeks our help meeting their real estate goals. </p>
+<p><strong>Our mission is to change the industry.</strong> We can accomplish this together by treating every challenge as a learning opportunity and by providing top-tier service to each and every person we help meet their real estate goals.</p>
 
 <p>We don’t do this alone—we each focus on being an expert in one piece of the business and hold each other accountable for meeting our goals. But as we do it, we don’t take ourselves too seriously. Opportunity does not have to come at the cost of fun and family.</p>
 
 <p>We have the support that will allow you to step away from your cell phone and fully engage in your life and community. We want you to reach your personal goals.</p>
 
-<p>When you join our team, you won’t be wondering how you’ll spend your time. Agents on our team gather daily for a morning huddle and for team-focused lead generation time. The afternoon is for working with clients, going to showings, sitting appointments, and so on. Once a month, we hold a book club, and we also do monthly community service.</p>
+<p>When you join our team, you won’t be wondering how you’ll spend your time. Agents on our team gather daily for a morning huddle and for team-focused lead generation time. The afternoon is for working with clients, going to showings, having appointments, and so on. Once a month, we hold a book club and we also do monthly community service.</p>
 
-<p>When you join our team, you’ll know what it means to work in a well-oiled machine. Someone can follow up with your leads and set appointments for you. Our commission split is also team-oriented—you have the opportunity to earn between a 5% split and a 60% split.</p>
+<p>When you join our team, you’ll know what it means to work in a well-oiled machine. Someone can follow up with your leads and set appointments for you. Our commission split is also team-oriented—you have the opportunity to earn between a 5% split and a 60% split with our personalized commission structure.</p>
 
 <p><strong>When you join our team, you’ll have fun every day and be able to look back on the impact you’ve made on both your family and your community.</strong></p>
 
 <p>We’re offering a full CRM, broker support, ISA support, coaching, and four client events every year. You’ll be productive, sure, but you won’t be weighed down by a million extraneous tasks or the stress of not knowing what will happen if you don’t achieve them.</p>
 
-<p>Think about this: <strong>I once took a brand-new agent—not just new to the industry, but to the area itself—and trained him to the point where, within two years, he was netting $250,000.</strong> I partnered with another new agent who, within three years, had netted enough money and passive income from purchasing real estate that he now travels full-time with his family</p>
+<p>Think about this: <strong>I once took a brand-new agent—not just new to the industry, but to the area itself—and trained him to the point where, within three years, he was making $250,000.</strong> I partnered with another new agent who, within three years, had netted enough money and passive income from purchasing real estate that he now travels full-time with his family.  Another agent joined our team after working solo in real estate for four months with no sales.  In his first year with us he made over $50,000.</p>
 
 <p>Yes, you read that right.</p>
 
-<p>When you take our offer, you’ll enter into an agent-in-training boot camp for 30 days, where there will be metrics that you’ll be expected to hit. Like all things, it’ll be work, but the payoffs can be astronomical. After graduating from this boot camp, you’ll be partnered with a senior agent who will help you with your first five to 10 deals. You can put together your own database and begin calling from day one. Once that shadowing period is over, you can strike out on your own.</p>
+<p>When you take our offer, you’ll enter into an agent-in-training boot camp for 30 days, where there will be metrics that you’ll be expected to hit. Like all things, it’ll be work, but the payoffs can be astronomical. You will put together your own database and begin calling from day one.  After graduating from this boot camp, you’ll be partnered with a senior agent who will help you with your first 5 to 10 deals. Once that shadowing period is over, you can strike out on your own.</p>
 
-<p>We are so confident in our program that we guarantee if you graduate from our boot camp, you’ll receive a commission check within 45 days or else one of our senior agents will share their checks with you.</p>
+<p>We are so confident in our program that we guarantee if you graduate from our boot camp, you’ll receive a commission check within 45 days or else your senior agent partner will share their commission check with you.</p>
 
 <p><strong>Here’s the rub: We only have two available positions for September.</strong> You have the power to change your life by applying for this position, but only if you have the drive to make it happen very soon.</p>
 
-<p>Unless, of course, you’d rather go back to your search for flexibility and freedom, never knowing where your potential lay and submitting yourself to the whims of an uncertain market.</p>
+<p>Unless, of course, you’d rather go back to your search for flexibility and freedom, never knowing where your potential lay and submitting yourself to the whims of our uncertain market.</p>
 
 <p>I’m fairly certain that you don’t want to do that, though, which is why I’m challenging you to take charge of your future by applying with us. You can be the author of your own success.</p>
 
