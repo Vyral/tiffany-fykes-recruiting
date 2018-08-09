@@ -5,12 +5,12 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
-  - title: Free Newsletter
-    url: /subscribe/
+  # - title: Events
+  #   url: #
+  # - title: Free Strategy Call
+  #   url: /strategy-call/
+  # - title: Free Newsletter
+  #   url: /subscribe/
 
 
 client:
