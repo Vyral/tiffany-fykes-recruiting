@@ -7,8 +7,8 @@ custom_links:
     url: /join-our-team/
   # - title: Events
   #   url: #
-  # - title: Free Strategy Call
-  #   url: /strategy-call/
+  - title: Free Strategy Call
+    url: /strategy-call/
   # - title: Free Newsletter
   #   url: /subscribe/
 
