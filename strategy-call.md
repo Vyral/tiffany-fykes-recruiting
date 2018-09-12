@@ -34,20 +34,18 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">“I really appreciate a raw and realistic approach to real estate...Tiffany gives practical applications with examples of what to do and how to do it”</span><br>
+<span class="author">- Travis Smith- Seattle, WA</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">“I had 2 calls to come do listing presentations as a result of what I learned [from] Tiffany...Truly thankful! Tiffany’s expertise and willingness to share has netted my family some very nice commissions.”</span><br>
+<span class="author">- Jane McCracken- Nashville, TN</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
