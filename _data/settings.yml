@@ -9,8 +9,8 @@ custom_links:
   #   url: #
   - title: Free Strategy Call
     url: /strategy-call/
-  # - title: Free Newsletter
-  #   url: /subscribe/
+  - title: Free Newsletter
+    url: /subscribe/
 
 
 client:
