@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Neighborhood Should You Farm?
-date: 2018-10-19 15:15:00
+date: 2018-10-17 15:15:00
 tags:
 excerpt: >-
   How should agents pick which neighborhood they want to farm? Start by asking
