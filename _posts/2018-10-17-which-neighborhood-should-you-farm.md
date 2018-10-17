@@ -24,7 +24,7 @@ Realtors call this “farming,” and I recently got a great question on this ve
 
 There are two main questions agents should consider when picking a neighborhood to farm:
 
-**1. Does the neighborhood have a good turnover rate?** An ideal neighborhood for farming would be one where people actually move semi-frequently. Therefore, aim for neighborhoods with a turnover rate of at least 6%. The bigger the turnover rate a neighborhood has, the better. To determine an area’s turnover rate, compare the number of recent sales versus the total number of homes, in general.
+**1. Does the neighborhood have a good turnover rate?** An ideal neighborhood for farming would be one where people actually move semi-frequently. Therefore, aim for neighborhoods with a turnover rate of at least 6%. The bigger the turnover rate a neighborhood has, the better. To determine an area’s turnover rate, compare the number of recent sales versus the total number of homes.
 
 {% include pullquote.html %}
 
