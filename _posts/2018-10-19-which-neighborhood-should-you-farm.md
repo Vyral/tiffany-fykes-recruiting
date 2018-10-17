@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Neighborhood Should You Farm?
-date: 2018-10-17 15:15:57
+date: 2018-10-19 15:15:00
 tags:
 excerpt: >-
   How should agents pick which neighborhood they want to farm? Start by asking
@@ -31,5 +31,3 @@ There are two main questions agents should consider when picking a neighborhood 
 **2. Is there already a dominant real estate agent in the neighborhood?** When considering this point, remember that any agent who has 15% of the market share for a given neighborhood is considered dominant. Also, if two agents combined have 20% of a neighborhood’s market share, they would be considered dominant, as well. Though it is possible to farm a neighborhood that already has a dominant agent, I personally wouldn’t recommend it.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
