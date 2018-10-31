@@ -58,7 +58,7 @@ permalink: /join-our-team/
 
 <p>We are so confident in our program that we guarantee if you graduate from our boot camp, you’ll receive a commission check within 45 days or else your senior agent partner will share their commission check with you.</p>
 
-<p><strong>Here’s the rub: We only have two available positions this month.</strong>You have the power to change your life by applying for this position, but only if you have the drive to make it happen very soon.</p>
+<p><strong>Here’s the rub: We only have two available positions this month.</strong> You have the power to change your life by applying for this position, but only if you have the drive to make it happen very soon.</p>
 
 <p>Unless, of course, you’d rather go back to your search for flexibility and freedom, never knowing where your potential lay and submitting yourself to the whims of our uncertain market.</p>
 
