@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Check out this interview to learn about Tiffany Fyke's journey through real
   estate.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tiffany+Fykes/Tiffany+Fykes-+Tiffany+Fykes%2527s+Journey+Through+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
