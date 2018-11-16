@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Tiffany Fykes's Journey Through Real Estate
-date: 2018-11-16 21:39:45
+date: 2018-11-16 21:39:00
 tags:
-excerpt:
+excerpt: >-
+  Check out this interview to learn about Tiffany Fyke's journey through real
+  estate.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -15,4 +17,4 @@ youtube_code: lR2KriVxmHo
 
 {% include youtube.html %}
 
-&nbsp;
+Check out this interview to learn about Tiffany Fyke's journey through real estate.
