@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiffany Fykes's Journey Through Real Estate
-date:
+date: 2018-11-16 21:39:45
 tags:
 excerpt:
 enclosure:
@@ -10,8 +10,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: lR2KriVxmHo
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
