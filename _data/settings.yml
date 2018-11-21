@@ -1,5 +1,5 @@
 audit_header: false
-title: FYKES Leadership Training
+title: Real Estate Training by Tiffany Fykes
 description: Tiffany Fykes, a top Real Estate Agent in Nashville, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
@@ -76,7 +76,11 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#d31145'
+  brand_color: '#a14746'
+  color1: '#541d1c'
+  color3: '#395922'
+  color4: '#aead5d'
+  color5: '#25506e'
   theme_color: '#a7a9ac'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
