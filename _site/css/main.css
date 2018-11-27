@@ -1548,6 +1548,12 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  #hero {
+    padding-top: 60px; }
+
+  .hero-img {
+    background-position: 25%; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
