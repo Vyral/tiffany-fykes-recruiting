@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How You Can Find Out if Your Listing Is Overpriced
-date: 2018-12-06 16:43:41
+date: 2018-12-06 16:43:00
 tags:
 excerpt: 'If you think your home may be overpriced, here are a few ways to find out.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Tiffany+Fykes/Tiffany+Fykes-+How+to+Tell+if+Your+Listing+is+Overprice.mp4
-pullquote: 'To make sure your home isn’t overpriced, price or condition must change.'
+pullquote: 'To make sure your home isn’t overpriced, its price or condition must change.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: BiDJZnQGRic
 
 There are two things we can control with a home listing: price and condition. I’m often asked, “How do I know if my house is overpriced?”
 
-Homes are overpriced as a result of the two areas I mentioned earlier: It’s an issue with either its price or its condition. To make sure your home isn’t overpriced, **its price or condition must change.** A change in condition means upgrading the property, such as repainting the home or renovating the kitchen. A change in price simply means lowering it so it more closely matches the home’s condition.
+Homes are overpriced as a result of the two areas I mentioned above: It’s an issue with either its price or its condition. To make sure your home isn’t overpriced, **its price or condition must change.** A change in condition means upgrading the property, such as repainting it or renovating the kitchen. A change in price simply means lowering it so it more closely matches the home’s condition.
 
 {% include pullquote.html %}
 
