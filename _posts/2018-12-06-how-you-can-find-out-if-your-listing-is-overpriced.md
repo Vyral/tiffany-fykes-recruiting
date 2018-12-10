@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BiDJZnQGRic
+youtube_code: dZigl3CBVOM
 ---
 
 {% include youtube.html %}
@@ -29,5 +29,3 @@ Homes are overpriced as a result of the two areas I mentioned above: It’s an i
 2.You have no offers after 10 showings.
 
 <br>**When one of these conditions is met, it’s time to consider lowering your price or upgrading your home.** If you have any questions or need more information, feel free to reach out to us. We look forward to hearing from you.
-
-&nbsp;
