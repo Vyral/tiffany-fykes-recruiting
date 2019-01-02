@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Keep My Appointments Within Business Hours
-date: 2018-12-28 17:54:57
+date: 2018-12-28 17:54:00
 tags:
   - Buyer Prospects
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/fykes-youtube-4.jpg
-youtube_code: NVMGYzdIYtA
+youtube_code: RMgQVh_bi4s
 ---
 
 {% include youtube.html %}
