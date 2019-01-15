@@ -26,7 +26,7 @@ Once we’ve established a list of projects for the seller to complete, we’ll 
 
 {% include pullquote.html %}
 
-On our side, we first look for agents who we believe have buyers who would be interested in our seller’s home. That means we’ll call other agents who have had listings in the neighborhood in the last one to three months, since that means they’ll likely have buyers. If the agents operate in one of our farm areas, we’ll make sure that neighborhood is aware of that listing. Additionally, we’ll put sign and “coming soon” pointers in the seller’s yard about two weeks before it goes live on the market so that passersby know it’s for sale.
+On our side, we first look for agents who we believe have buyers who would be interested in our seller’s home. That means we’ll call other agents who have had listings in the neighborhood in the last one to three months, since that means they’ll likely have buyers. If the agents operate in one of our farm areas, we’ll make sure that neighborhood is aware of that listing. Additionally, we’ll put signs and “coming soon” pointers in the seller’s yard about two weeks before it goes live on the market so that passersby know it’s for sale.
 
 We do all this because we’ve found that if you start your marketing only when the house goes on the MLS, you’re already behind and **the house will have a greater chance of stagnating on the market,** which won’t net your seller any more money.
 
