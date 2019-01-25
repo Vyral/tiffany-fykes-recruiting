@@ -1917,9 +1917,9 @@ table tr, table td {
   display: block; }
 
 .readlink > a {
-  background: #a14746;
-  color: white;
-  border: 1px solid #a14746;
+  background: #25506e;
+  color: #fff;
+  border: 1px solid #25506e;
   border-radius: 0px;
   padding: 10px 20px;
   margin-top: 20px;
@@ -1928,9 +1928,9 @@ table tr, table td {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: #fff;
-    color: #a14746;
-    border: 1px solid #a14746; }
+    background: #395922;
+    color: #fff;
+    border: 1px solid #395922; }
   .readlink > a:active {
     box-shadow: 0 0 0 #a14746;
     -webkit-transform: translateY(0rem);
