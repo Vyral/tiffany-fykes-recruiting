@@ -18,7 +18,7 @@ youtube_code: NulQBZbVwWo
 
 {% include youtube.html %}
 
-As a mom of two and a real estate professional, I’ve got a lot on my plate. So how do I do it? How do I manage my time?
+As a real estate professional and mom of two, I’ve got a lot on my plate. So how do I do it? How do I manage my time?
 
 The answer is simple: I treat time like money. **Every Sunday, I get out my calendar and develop a budget for my time that week.** I block out each day into sections dedicated to various activities. This way, I know exactly how each moment will be spent before I come to it.
 
