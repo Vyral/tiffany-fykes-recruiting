@@ -22,7 +22,7 @@ If you’re thinking of entering the real estate industry, you’re probably won
 
 I entered the real estate industry in 2009—when the market hit its bottom. However, despite the fact that the economy was in decline, my team’s business more than doubled for three years straight after I got on board.
 
-**With this in mind, it’s always a good time to get in real estate.** The right question isn’t when you should enter the industry, it’s how.
+**With this in mind, it’s always a good time to get into real estate.** The right question isn’t when you should enter the industry, it’s how.
 
 {% include pullquote.html %}
 
