@@ -18,7 +18,7 @@ youtube_code: FeuJ_ZQxEmU
 
 {% include youtube.html %}
 
-I had the opportunity to speak with Monica Baker, an up-and-coming real estate agent. After finishing up the first year of her career in the real estate business, Monica had plenty to tell us about her journey as a new agent jumping into a big market.
+I recently had the opportunity to speak with Monica Baker, an up-and-coming real estate agent. After finishing up the first year of her career in the real estate business, Monica had plenty to tell us about her journey as a new agent jumping into a big market.
 
 **For your convenience, I’ve included timestamps for each topic of the video interview. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
