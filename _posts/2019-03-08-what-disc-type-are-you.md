@@ -41,7 +41,7 @@ Lastly, there are the people who fall into the Conscientiousness category. **The
 
 After considering this analogy, you’ve probably got an idea now of which category you belong to. What you might not recognize yet, though, is how this category comes into play in your professional life. Well, allow me to break it down.
 
-D-type people tend to be very direct in their communication. **If you fall into this category, realize that not everyone will want to be spoken to the way you might prefer.** Some will take offense if communication is too blunt, so always consider the personality type of those you’re interacting as you approach a conversation—especially when speaking with clients.
+D-type people tend to be very direct in their communication. **If you fall into this category, realize that not everyone will want to be spoken to the way you might prefer.** Some will take offense if communication is too blunt, so always consider the personality type of those you’re interacting with as you approach a conversation—especially when speaking with clients.
 
 I-type people like to talk at length. If you’re an I-type talking to a D-type, though, realize that they won’t appreciate lengthy discussions. When dealing with D-type clients, it’s best to cut straight to the point.&nbsp;
 
