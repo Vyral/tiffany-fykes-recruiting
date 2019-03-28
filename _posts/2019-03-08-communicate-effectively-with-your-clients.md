@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What DISC Type Are You?
+title: Communicate Effectively With Your Clients
 date: 2019-03-08 21:16:00
 tags:
 excerpt: >-
@@ -25,11 +25,11 @@ As a real estate professional, many of the tips you might hear on how to run a s
 
 **Did you know that understanding your own personality is actually essential to being an effective real estate professional?&nbsp;**
 
-Whether this comes as a surprise to you or not, you’re probably wondering how you can go about determining what type of personality you have. There are many different assessments out there, but today we’re going to focus on one that measures traits that relate specifically to how we behave as professionals. I’m talking, of course, about the DISC assessment.&nbsp;
+Whether this comes as a surprise to you or not, you’re probably wondering how you can go about determining what type of personality you have. There are many different assessments out there, but today we’re going to focus on one that measures traits that relate to how we behave. I’m talking, of course, about the DISC assessment.&nbsp;
 
 **This DISC assessment is named after the four characteristics it measures: Dominance, Influence, Steadiness, and Conscientiousness.** Knowing not only which of these four characteristics most closely describes your personality, but also which of these traits most closely matches the people you interact with can greatly benefit your business.&nbsp;
 
-During a recent training I attended with Kristy Gross-Beltman, she shared an amazing analogy that describes how different traits within the DISC assessment can manifest:&nbsp;
+During a recent training I attended with Christy Belt Grossman, she shared an amazing analogy that describes how different traits within the DISC assessment can manifest:&nbsp;
 
 **Think about how you behave in traffic.** People within the Dominance category may be prone to weave in and out of lanes, making constant moves to get ahead. People in the Influence category, meanwhile, are those who you might see jamming out to music, waving to let people into their lane, and just generally having a good time.&nbsp;
 
