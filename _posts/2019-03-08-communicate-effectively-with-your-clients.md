@@ -4,53 +4,42 @@ title: Communicate Effectively With Your Clients
 date: 2019-03-08 21:16:00
 tags:
 excerpt: >-
-  The DISC assessment is an incredible way to determine your personality type,
-  and today we’ll explain how this knowledge can be used to improve your career
-  as a real estate agent.
+  To determine what a home’s price should be, there are a few critical steps you
+  must take. Find out what these steps are with today’s quick message.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tiffany+Fykes/Tiffany+Fykes-+The+Importance+of+Understanding+Personality+Traits.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tiffany+Fykes/Tiffany+Fykes-+How+to+Determine+What+a+Home's+Price+Should+Be.mp4
 pullquote: >-
-  You need to identify who you are and who your clients are as you approach
-  every interaction.
+  It takes a lot of due diligence to come up with a fair and accurate home
+  value.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: i10ENRtAAJk
+youtube_code: 8Qh_IdDBxos
 ---
 
 {% include youtube.html %}
 
-As a real estate professional, many of the tips you might hear on how to run a successful business aren’t focused on who you are as an individual. The tip I’m sharing today, however, centers on exactly that.
+ 
 
-**Did you know that understanding your own personality is actually essential to being an effective real estate professional?&nbsp;**
+Our team has recently taken on a new agent, and during our training process, he brought up an interesting question: **How do you determine what a home’s price should be?**
 
-Whether this comes as a surprise to you or not, you’re probably wondering how you can go about determining what type of personality you have. There are many different assessments out there, but today we’re going to focus on one that measures traits that relate to how we behave. I’m talking, of course, about the DISC assessment.&nbsp;
+As you already know, agents determine price by completing a comparative market analysis (or CMA). But what exactly goes into this process?
 
-**This DISC assessment is named after the four characteristics it measures: Dominance, Influence, Steadiness, and Conscientiousness.** Knowing not only which of these four characteristics most closely describes your personality, but also which of these traits most closely matches the people you interact with can greatly benefit your business.&nbsp;
+Personally, I like to dive deep into local market data when I complete a CMA. I don’t just draw a circle on a map when looking for comparable homes. Instead, I think critically about which neighborhoods are most similar to the one surrounding the property in question.
 
-During a recent training I attended with Christy Belt Grossman, she shared an amazing analogy that describes how different traits within the DISC assessment can manifest:&nbsp;
-
-**Think about how you behave in traffic.** People within the Dominance category may be prone to weave in and out of lanes, making constant moves to get ahead. People in the Influence category, meanwhile, are those who you might see jamming out to music, waving to let people into their lane, and just generally having a good time.&nbsp;
+After all, **a home’s value is as much about its location as it is about the home itself.**
 
 {% include pullquote.html %}
 
-Those in the Stability category will tend to stick to a single lane, and will only move if they absolutely need to. These people will stay at a consistent speed without worrying about their position in traffic.
+Once I’ve narrowed my search by location, it’s time to look for homes that have comparable features. This means finding properties with similar square footage, similar upgrades, and a similar lot size to the home I’m attempting to price. A 2-bedroom, 1-bathroom rambler would have a much different value than a 4-bedroom, 2-bathroom ranch, for example. The goal is to compare apples to apples.  
 
-Lastly, there are the people who fall into the Conscientiousness category. **These people have likely planned their day so carefully that they don’t wind up in traffic at all.** Instead, they plan at least one alternate route.&nbsp;
+If the home in question is particularly unique, you may need to broaden your search. It’s more difficult to find comparable properties when the home you’re assessing is essentially one of a kind.
 
-After considering this analogy, you’ve probably got an idea now of which category you belong to. What you might not recognize yet, though, is how this category comes into play in your professional life. Well, allow me to break it down.
+**Setting a home’s price is all about focusing on its distinguishing features and then searching for data that shows how much value these features might bring on the market.**
 
-D-type people tend to be very direct in their communication. **If you fall into this category, realize that not everyone will want to be spoken to the way you might prefer.** Some will take offense if communication is too blunt, so always consider the personality type of those you’re interacting with as you approach a conversation—especially when speaking with clients.
+In addition to these factors, my team and I also consider a given area’s “market velocity.” In other words, we factor in both where the market is today and where it’s headed in the future when we set prices on homes.
 
-I-type people like to talk at length. If you’re an I-type talking to a D-type, though, realize that they won’t appreciate lengthy discussions. When dealing with D-type clients, it’s best to cut straight to the point.&nbsp;
+The bottom line is that it takes a lot of due diligence to come up with a fair and accurate home value. Armed with the right knowledge, though, you will be well equipped to guide your clients to the right price for their home.
 
-S-type people fall somewhere in between. They want enough information to make an informed decision, but still appreciate directness.&nbsp;
-
-Finally, C-type people want conversations about hard facts and data. **They don’t care as much about the amount of information as they do the quality of it.**&nbsp;
-
-The bottom line is that personality matters. You need to identify who you are and who your clients are as you approach every interaction. Being cognizant of this will greatly improve your business, overall.&nbsp;
-
-If you want to know which type you are for certain, [you can take the DISC assessment here.](https://www.123test.com/disc-personality-test/){: target="_blank"}
-
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
