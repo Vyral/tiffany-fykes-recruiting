@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Communicate Effectively With Your Clients
+title: How Do You Determine a Home's Price
 date: 2019-03-08 21:16:00
 tags:
 excerpt: >-
