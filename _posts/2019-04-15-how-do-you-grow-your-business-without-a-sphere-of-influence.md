@@ -36,4 +36,4 @@ Open houses are not only a great way to meet new people, but also to find new bu
 
 **Ultimately, I would say that business is everywhere—you just need to focus on building your sphere.** Try adding at least five new people a week if you don’t already have 200 people in your database. Even if you have 100 people who know, like, and trust you, you still need to focus on growing your database because the more you stay in touch with them, the more they’ll see you as an expert in real estate. The more people recognize your expertise, the more business you’ll have.
 
-If you have any questions about expanding your business, feel free to reach out to me. I’d be happy to help you. And remember: you’ve got this\!
+If you have any questions about expanding your business, feel free to reach out to me. I’d be happy to help you. And remember: You’ve got this\!
