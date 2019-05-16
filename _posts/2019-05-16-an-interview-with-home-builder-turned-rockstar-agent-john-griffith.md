@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview With Home Builder Turned Rockstar Agent John Griffith
-date: 2019-05-16 15:37:59
+date: 2019-05-16 15:37:00
 tags:
 excerpt: >-
   Today John Griffith joins us to share his journey from building homes in
