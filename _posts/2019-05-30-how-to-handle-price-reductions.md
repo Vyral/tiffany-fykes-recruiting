@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Price Reductions
-date: 2019-05-30 15:14:14
+date: 2019-05-30 15:14:00
 tags:
 excerpt: >-
   Even though our market isn’t having quite the dramatic shift that others have
