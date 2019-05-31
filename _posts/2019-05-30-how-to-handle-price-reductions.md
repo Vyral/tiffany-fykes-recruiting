@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZnvMzyQClRs
+youtube_code: CSNOoxrUtvk
 ---
 
 {% include youtube.html %}
 
 How should an agent handle a price reduction? At Fykes Realty, **we think of price reductions in terms of data, statistics, and facts.** The selling process can be an emotional time for the seller, and you don’t want to make deals in terms of your emotions. You do, however, want to deal in matching their motivations.
 
-Recently we had a house on the market for two years. I showed the sellers the data and worked to get them a price reduction, but they just weren’t that concerned about actually getting the house sold. We came to an agreement that as long as they were happy, we’d continue, even though we could spend any more money on the marketing process. Eventually, as I continued to present them with the data, they were more motivated and were willing to agree to the price reduction.
+Recently we had a house on the market for two years. I showed the sellers the data and worked to get them a price reduction, but they just weren’t that concerned about actually getting the house sold. We came to an agreement that as long as they were happy, we’d continue, even though we couldn't spend any more money on the marketing process. Eventually, as I continued to present them with the data, they were more motivated and were willing to agree to the price reduction.
 
 {% include pullquote.html %}
 
