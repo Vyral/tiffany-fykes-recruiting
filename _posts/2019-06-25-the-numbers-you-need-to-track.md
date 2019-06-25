@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Numbers You Need to Track
-date: 2019-06-25 16:34:25
+date: 2019-06-25 16:34:00
 tags:
 excerpt: >-
   As an agent, your leading indicators and lagging indicators will tell you
