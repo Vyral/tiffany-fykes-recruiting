@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Numbers You Need to Track
+title: The Numbers You Need to Track to Reach Your Goals
 date: 2019-06-25 16:34:00
 tags:
 excerpt: >-
