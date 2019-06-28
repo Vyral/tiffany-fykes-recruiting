@@ -7,7 +7,7 @@ excerpt: >-
   As an agent, your leading indicators and lagging indicators will tell you
   whether you’re on track to reach your goals.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tiffany+Fykes/Tiffany+Fykes-+How+to+Determine+Whether+or+Not+You're+on+Track+to+Reaching+Your+Goals.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tiffany+Fykes/Tiffany+Fykes-+How+to+Determine+Whether+or+Not+You're+on+Track+to+Reaching+Your+Goals+(1).mp4
 pullquote: >-
   There are two things you need to measure when tracking your numbers: the money
   you make and your leading indicators.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FvjFw5wkayo
+youtube_code: hlpVDiB3frU
 ---
 
 {% include youtube.html %}
