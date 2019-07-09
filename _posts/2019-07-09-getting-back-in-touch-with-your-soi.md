@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Back in Touch With Your SOI
-date:
+date: 2019-07-09 15:52:09
 tags:
 excerpt: >-
   Today I’ll give you the four-part recipe for getting in touch (and staying in
