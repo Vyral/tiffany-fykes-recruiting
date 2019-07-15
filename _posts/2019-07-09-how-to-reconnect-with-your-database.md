@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Getting Back in Touch With Your SOI
+title: How to Reconnect With Your Database
 date: 2019-07-09 15:52:00
 tags:
 excerpt: >-
   Today I’ll give you the four-part recipe for getting in touch (and staying in
   touch) with your sphere of influence.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tiffany+Fykes/Tiffany+Fykes-+How+to+Stay+in+Touch+With+Your+Sphere+of+Influence.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tiffany+Fykes/How+to+Reconnect+With+Your+Database.mp4
 pullquote: You must have a system in place that fosters communication with your sphere.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5Yn6yiUHn8A
+youtube_code: OZ81irSpyjA
 ---
 
 {% include youtube.html %}
