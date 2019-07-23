@@ -29,7 +29,7 @@ If you’ve been an agent for any number of years and you aren’t doing this, d
 
 About four years ago, I made the same mistake. I had gotten so busy that I wasn’t staying in touch with my database, and I realized two things: I wanted to re-establish that communication, but I felt uneasy about it because it had been so long.&nbsp;
 
-Although I had been sending fliers, postcards, and invitations to our yearly events to my database, I hadn’t personally reached to any of the people in it for a while. &nbsp;&nbsp;
+Although I had been sending flyers, postcards, and invitations to our yearly events to my database, I hadn’t personally reached out to any of the people in it for a while. &nbsp;&nbsp;
 
 I heard about Brad Korn’s plan and decided to put it into practice. Following that plan, you’ll first **send a letter to the people in your database apologizing to them for neglecting to stay in touch and assuring them that you’ll turn it around.** Then, let them know that you plan to call sometime in the following week.
 
