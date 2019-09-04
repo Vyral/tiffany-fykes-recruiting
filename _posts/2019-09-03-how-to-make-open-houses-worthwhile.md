@@ -27,7 +27,7 @@ Another way we set ourselves apart is by asking people permission to place open 
 
 {% include pullquote.html %}
 
-Speaking of signs, make sure you put up 20 or so, taking care to place them at major thoroughfares and other well-travelled areas. Then, on the morning of the open house, tying balloons to your signs is a great way to make them stand out even more.&nbsp;
+Speaking of signs, make sure you put up 20 or so, taking care to place them at major thoroughfares and other well-traveled areas. Then, on the morning of the open house, tying balloons to your signs is a great way to make them stand out even more.&nbsp;
 
 **And don’t forget about digital marketing.** Post about the open house on your Facebook, your business page, and also on Nextdoor, as well as any other social media platforms you happen to use for your business.&nbsp;
 
