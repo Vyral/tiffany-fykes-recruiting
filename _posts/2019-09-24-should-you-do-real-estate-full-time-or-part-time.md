@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Do Real Estate Full-Time or Part-Time?
-date: 2019-09-24 17:07:31
+date: 2019-09-24 17:07:00
 tags:
 excerpt: >-
   Today we’ll discuss the pros and cons of both working in real estate part-time
@@ -35,5 +35,3 @@ My advice? If you’re serious about becoming an agent, dedicate yourself to a f
 The best thing you can do is build a nice nest egg before you get going with your career. If you have a nest egg, but it’s not quite big enough or you’d rather not dip into your savings, another option is to find extremely flexible part-time work. Uber, for example, might be something to consider. You can drive around for a few hours, make some supplemental income, and still be available for appointments or calls if need be. Whatever you choose to do, make sure it doesn’t eat up much of your time or availability.
 
 If you have any questions or would like to discuss this further, please don’t hesitate to reach out to me. I’d love to speak with you\!
-
-{% include pullquote.html %}
