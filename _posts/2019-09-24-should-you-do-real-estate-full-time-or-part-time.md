@@ -22,7 +22,7 @@ youtube_code: _06ajBPSBwA
 
 At a career night event I recently held, I was asked by one attendee, “Should I do real estate part-time or full-time?” Given all the flexibility that real estate offers, that’s a great question. **It really depends on the individual, but today I’ll explain which option I believe is the better of the two and why.**
 
-There are certain advantages to working as a part-time agent. One on hand, you’ll be able to hold on to your day job and maintain a dependable source of income. But on the other hand, it’ll take a whole lot longer for you to start making headway in your business. That’s not to say you won’t be able to sell houses, but only partially committing will delay your progress in the long run. And because you’ll be prone to making mistakes more frequently, having a mentor at your side will be so important.
+There are certain advantages to working as a part-time agent. On one hand, you’ll be able to hold on to your day job and maintain a dependable source of income. But on the other hand, it’ll take a whole lot longer for you to start making headway in your business. That’s not to say you won’t be able to sell houses, but only partially committing will delay your progress in the long run. And because you’ll be prone to making mistakes more frequently, having a mentor at your side will be so important.
 
 **As a full-time agent, time constraints won’t get in the way of your development.** You’ll be able to take educational courses, make more calls, and establish your marketing brand. Plus, if you join a team, you’ll have the chance to hit the ground running and not worry about building your business from the ground up.
 
