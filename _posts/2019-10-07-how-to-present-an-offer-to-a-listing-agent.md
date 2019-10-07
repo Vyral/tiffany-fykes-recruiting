@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Present an Offer to a Listing Agent
-date:
+date: 2019-10-07 16:06:34
 tags:
 excerpt: >-
   Doing just a few simple things differently could get your first offer accepted
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/fykes-youtube-5.jpg
 youtube_code: G147VtKXIA0
 ---
 
-{% include youtube.html %}<center>Doing just a few simple things differently could get your first offer accepted by the listing agent.</center>
+{% include youtube.html %}
+
+<center>Doing just a few simple things differently could get your first offer accepted by the listing agent.</center>
+
+&nbsp;
 
 How do you present an offer to the listing agent for the best chance of getting it accepted? **How your offer gets accepted actually builds upon the first showing that you do.**
 
