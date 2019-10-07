@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/fykes-youtube-5.jpg
 youtube_code: G147VtKXIA0
 ---
 
-{% include youtube.html %}Doing just a few simple things differently could get your first offer accepted by the listing agent.
+{% include youtube.html %}<center>Doing just a few simple things differently could get your first offer accepted by the listing agent.</center>
 
 How do you present an offer to the listing agent for the best chance of getting it accepted? **How your offer gets accepted actually builds upon the first showing that you do.**
 
