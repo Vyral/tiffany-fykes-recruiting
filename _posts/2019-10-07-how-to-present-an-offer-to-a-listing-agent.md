@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Present an Offer to a Listing Agent
-date: 2019-10-07 16:06:34
+date: 2019-10-07 16:06:00
 tags:
 excerpt: >-
   Doing just a few simple things differently could get your first offer accepted
@@ -31,7 +31,7 @@ Then, once your buyers are interested, you may already have information on the h
 
 Next, send the listing agent a text or email to let them know when you’ve written up an offer on the property with your buyer, so they’ll know to be on the lookout for it. Let the listing agent know your buyer is pre-approved and enthusiastic, but don’t tell them about your buyer’s motivation.
 
-Tip: Outline the offer in the email. Draft that email like you’re talking to the seller because many agents will simply forward that message on to the sellers anyway. Include anything else you want the seller to know. This is essentially pre-negotiating. Avoid saying anything negative about the property or its location, it could make the seller defensive.
+Tip: Outline the offer in the email. Draft that email like you’re talking to the seller because many agents will simply forward that message on to the sellers anyway. Include anything else you want the seller to know. This is essentially pre-negotiating. Avoid saying anything negative about the property or its location — it could make the seller defensive.
 
 In the best scenarios, you don’t want to have a bunch of counteroffers, you want that first offer accepted, so following these guidelines should help that process.&nbsp;
 
