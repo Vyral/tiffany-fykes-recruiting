@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/fykes-youtube-7.jpg
 youtube_code: dPbkTzG6cEM
 ---
 
-{% include youtube.html %}Why do we host events for our clients? Find out how they help us get more business here.
+{% include youtube.html %}<center>Why do we host events for our clients? Find out how they help us get more business here.</center>
 
 One of the great things about hosting events for your database is the fact that you get to have so many great conversations with people about the services you provide for them.
 
