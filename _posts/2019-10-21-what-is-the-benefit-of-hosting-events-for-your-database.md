@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Benefit of Hosting Events for Your Database?
+title: What Is the Benefit of Hosting Events for Your Database?
 date: 2019-10-21 15:00:00
 tags:
 excerpt: >-
