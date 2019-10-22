@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the Benefit of Hosting Events for Your Database?
-date: 2019-10-21 15:00:22
+date: 2019-10-21 15:00:00
 tags:
 excerpt: >-
   Why do we host events for our clients? Find out how they help us get more
@@ -27,7 +27,7 @@ One of the great things about hosting events for your database is the fact that 
 
 To put on a great client event, you first need to **plan an event that your clients would enjoy going to.** It doesn’t need to be expensive; a lot of big agents rent out zoos or movie theaters, which is fine, but those types of expensive events aren’t the only options you have.
 
-Our Popsicle Party this Saturday is an example of a low-key client event you can try. We’ll have a bounce house out in our parking lot, we’ll have a money drawing for a teacher to outfit their classroom for the back-to-school season.
+Our Popsicle Party this Saturday is an example of a low-key client event you can try. We’ll have a bounce house out in our parking lot, and we’ll have a money drawing for a teacher to outfit their classroom for the back-to-school season.
 
 Second, **figure out how to get the word out about your event.** Post fliers on social media, mail postcards, or send out an email to your database to make sure that the maximal number of people see the event advertisement.
 
