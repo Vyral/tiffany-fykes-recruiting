@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Set Proper Expectations With Your Buyers
-date:
+date: 2019-11-04 15:17:43
 tags:
 excerpt: >-
   Even if a buyer wants to see 30 different homes, I recommend never showing
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/fykes-youtube-9.jpg
 youtube_code: rOIteLw0FtI
 ---
 
-{% include youtube.html %}<center>Even if a buyer wants to see 30 different homes, I recommend never showing them more than five or six in a day. Here’s why.</center>
+{% include youtube.html %}
+
+<center>Even if a buyer wants to see 30 different homes, I recommend never showing them more than five or six in a day. Here&rsquo;s why.</center>
+
+&nbsp;
 
 The fall market is big for our business. One of our newer agents asked me recently, “What do I do with the buyers who want to see 30 houses if I’m already working with five of them?” Here’s what I told her.
 
