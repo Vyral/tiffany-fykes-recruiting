@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Set Proper Expectations With Your Buyers
-date: 2019-11-04 15:17:43
+date: 2019-11-04 15:17:00
 tags:
 excerpt: >-
   Even if a buyer wants to see 30 different homes, I recommend never showing
@@ -23,7 +23,7 @@ youtube_code: rOIteLw0FtI
 
 The fall market is big for our business. One of our newer agents asked me recently, “What do I do with the buyers who want to see 30 houses if I’m already working with five of them?” Here’s what I told her.
 
-**Step number one is to set expectations up front.** You need to let your buyers know that most buyers find a home after five or six showings. One of our buyer’s agents, John, puts it like this: *“Sometimes, the very first house that you walk into is the one you’re going to fall in love with. Dol not be afraid of buying the first house you see.”*
+**Step number one is to set expectations up front.** You need to let your buyers know that most buyers find a home after five or six showings. One of our buyer’s agents, John, puts it like this: *“Sometimes, the very first house that you walk into is the one you’re going to fall in love with. Do not be afraid of buying the first house you see.”*
 
 **You shouldn’t show more than five to six homes at a time to any buyer.** They won’t be able to compare them as well. At each house, talk to them about how it compares to the others you’ve seen.&nbsp;
 
