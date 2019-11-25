@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips to Provide Value to Your Database
-date: 2019-11-25 18:47:22
+date: 2019-11-25 18:47:00
 tags:
 excerpt: Here are a few tips that will help you provide value to your database.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/fykes-youtube-10.jpg
 youtube_code: hqLosxoru2U
 ---
 
-{% include youtube.html %}<center>Here are a few tips that will help you provide value to your database.</center>
+{% include youtube.html %}
+
+<center>Here are a few tips that will help you provide value to your database.</center>
+
+&nbsp;
 
 To truly provide value to your database, you need to give more value to your database than they’re giving you. Every conversation your have, piece of mail you send, etc., should focus on what value you provide.&nbsp;
 
