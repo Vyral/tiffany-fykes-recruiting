@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/fykes-youtube-10.jpg
 youtube_code: hqLosxoru2U
 ---
 
-{% include youtube.html %}Here are a few tips that will help you provide value to your database.
+{% include youtube.html %}<center>Here are a few tips that will help you provide value to your database.</center>
 
 To truly provide value to your database, you need to give more value to your database than they’re giving you. Every conversation your have, piece of mail you send, etc., should focus on what value you provide.&nbsp;
 
