@@ -21,9 +21,9 @@ youtube_code: hqLosxoru2U
 
 &nbsp;
 
-To truly provide value to your database, you need to give more value to your database than they’re giving you. Every conversation your have, piece of mail you send, etc., should focus on what value you provide.&nbsp;
+To truly provide value to your database, you need to give more value to your database than they’re giving you. Every conversation you have, piece of mail you send, etc., should focus on what value you provide.&nbsp;
 
-On our team, for instance, one of the ways we provide value is by sending these videos twice a month. Additionally, we host about three events per year that we invite our entire database to. We also provide certain types of information, such as a list of reliable vendors. Furthermore, we’ve set up a toolshed in our farm that offers tools to our neighbors. If someone needs a power washer, we let them borrow ours.
+On our team, for instance, one of the ways we provide value is by sending these videos twice a month. Additionally, we host about three events per year that we invite our entire database to. We also provide certain types of information, such as a list of reliable vendors. Furthermore, we’ve set up a tool shed in our farm that offers tools to our neighbors. If someone needs a power washer, we let them borrow ours.
 
 {% include pullquote.html %}
 
