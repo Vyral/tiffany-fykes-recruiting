@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/fykes-youtube-1-1.jpg
 youtube_code: DGHiRXS8GJE
 ---
 
-{% include youtube.html %}There’s a lot of talk of a market shift recently, but what’s the truth behind it all? Let’s discuss.
+{% include youtube.html %}<center>There’s a lot of talk of a market shift recently, but what’s the truth behind it all? Let’s discuss.</center>
 
 When the subject of a market shift arises, many agents start to panic. However, there’s actually no reason that this event should raise concern. Market shifts are normal and happen in every single industry. In real estate, in particular, **the cyclical nature of our market is a long-established norm.** After all, what goes up must come down.&nbsp;
 
