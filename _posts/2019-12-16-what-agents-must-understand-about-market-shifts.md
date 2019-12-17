@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Agents Must Understand About Market Shifts
-date: 2019-12-16 16:05:49
+date: 2019-12-16 16:05:00
 tags:
 excerpt: >-
   There’s a lot of talk of a market shift recently, but what’s the truth behind
@@ -21,7 +21,7 @@ youtube_code: DGHiRXS8GJE
 
 &nbsp;
 
-When the subject of a market shift arises, many agents start to panic. However, there’s actually no reason that this event should raise concern. Market shifts are normal and happen in every single industry. In real estate, in particular, **the cyclical nature of our market is a long-established norm.** After all, what goes up must come down.&nbsp;
+When the subject of a market shift arises, many agents start to panic. However, there’s no reason that this event should raise concern. Market shifts are normal and happen in every single industry. In real estate, in particular, **the cyclical nature of our market is a long-established norm.** After all, what goes up must come down.&nbsp;
 
 Before the Great Recession began in 2006, real estate tended to run on a seven-year cycle. This cycle was split evenly in half, with trends rising for the first three and a half years and falling for the last. That said, the market is always slowly trending upward over time. This is why looking at the big picture is key.
 
