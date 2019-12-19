@@ -27,7 +27,7 @@ Before the Great Recession began in 2006, real estate tended to run on a seven-y
 
 {% include pullquote.html %}
 
-Therefore, since our market has been rising for an unusual 13 years (all thanks to the Great Recession changing the typical flow), there’s no reason to fear the market correction so many have been talking about. It’s all about balance.&nbsp;
+Therefore, since our market has been rising for an unusual 10 years (all thanks to the Great Recession changing the typical flow), there’s no reason to fear the market correction so many have been talking about. It’s all about balance.&nbsp;
 
 In fact, **it would be worse for our market if things never shifted.** A continuous rise would only lead to buyer fatigue—a phenomenon during which consumers become unwilling to pay for the increasingly expensive commodities before them. This creates a plateau and disrupts the market cycle.&nbsp;
 
