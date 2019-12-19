@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/fykes-youtube-1-1.jpg
-youtube_code: DGHiRXS8GJE
+youtube_code: fmaeUGfEpng
 ---
 
 {% include youtube.html %}
