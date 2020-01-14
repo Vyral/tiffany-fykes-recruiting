@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/fykes-youtube-3.jpg
 youtube_code: 9QVpwQAZqkE
 ---
 
-{% include youtube.html %}How do you choose what to spend money and time on for leads? Today I’ll discuss which avenues are best.
+{% include youtube.html %}<center>How do you choose what to spend money and time on for leads? Today I’ll discuss which avenues are best.</center>
 
 Once you become a real estate agent, everyone starts asking for your money. All kinds of companies come after you asking for money for their leads. So how do you choose what to spend your time and money on to generate leads? I am a solid believer in making your largest time investment at the beginning of your business. If you have extra cash, put it all into two, maybe three different avenues.
 
