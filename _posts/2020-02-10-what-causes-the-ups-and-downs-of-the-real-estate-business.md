@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/fykes-youtube-5-1.jpg
 youtube_code: h-BHwThtt20
 ---
 
-{% include youtube.html %}The real estate rollercoaster doesn’t have to be a ride you’re stuck on. Here’s how to ensure more consistent business for yourself throughout the year.&nbsp;
+{% include youtube.html %}<center>The real estate rollercoaster doesn’t have to be a ride you’re stuck on. Here’s how to ensure more consistent business for yourself throughout the year.&nbsp;</center>
 
 What creates the ups and downs of the real estate business? You likely know this ‘rollercoaster’ as the expectation that your busiest, most lucrative periods will be followed periods of struggle. Today I’ll be looking at what creates this common cycle for agents, as well as how to break free from it.&nbsp;
 
