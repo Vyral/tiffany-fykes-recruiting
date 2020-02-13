@@ -26,7 +26,7 @@ youtube_code: h-BHwThtt20
 
 &nbsp;
 
-What creates the ups and downs of the real estate business? You likely know this ‘rollercoaster’ as the expectation that your busiest, most lucrative periods will be followed periods of struggle. Today I’ll be looking at what creates this common cycle for agents, as well as how to break free from it.&nbsp;
+What creates the ups and downs of the real estate business? You likely know this ‘rollercoaster’ as the expectation that your busiest, most lucrative periods will be followed by periods of struggle. Today I’ll be looking at what creates this common cycle for agents, as well as how to break free from it.&nbsp;
 
 At first, when you have no business, you naturally freak out and put in tons of work to create the relationships necessary to generate business. Then, you start to freak out about having a lot of business to deal with, so much so that you ironically forget about the relationship-building process that gave you all that business in the first place\!&nbsp;
 
