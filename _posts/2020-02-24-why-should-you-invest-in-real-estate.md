@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Invest in Real Estate?
-date:
+date: 2020-02-24 15:33:23
 tags:
 excerpt: >-
   I believe every real estate agent should be investing in real estate. Here’s
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/fykes-youtube-7-1.jpg
 youtube_code: geH0-qBnk4E
 ---
 
-{% include youtube.html %}<center>I believe every real estate agent should be investing in real estate. Here’s why.</center>
+{% include youtube.html %}
+
+<center>I believe every real estate agent should be investing in real estate. Here&rsquo;s why.</center>
+
+&nbsp;
 
 One of the things that always astounds me is how few real estate agents own real estate as investments. I am passionate about making sure every agent, no matter their level, is investing in real estate. If you aren’t investing in real estate, you should be. Why is real estate investing important?&nbsp;
 
