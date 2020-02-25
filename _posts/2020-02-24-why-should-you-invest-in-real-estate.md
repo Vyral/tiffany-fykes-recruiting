@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Invest in Real Estate?
-date: 2020-02-24 15:33:23
+date: 2020-02-24 15:33:00
 tags:
 excerpt: >-
   I believe every real estate agent should be investing in real estate. Here’s
@@ -27,7 +27,7 @@ Real estate is a wonderful asset\! **Real estate you own is an asset that apprec
 
 {% include pullquote.html %}
 
-As a Realtor, you should be aware of a great deal when you see one, you should be investing in what you know. Stockbrokers have insight into stocks, and real estate agents have insight into real estate. I believe you should put aside a little of every commission you make toward your first down payment on an investment property.&nbsp;
+As a Realtor, you should be aware of a great deal when you see one, and you should be investing in what you know. Stockbrokers have insight into stocks, and real estate agents have insight into real estate. I believe you should put aside a little of every commission you make toward your first down payment on an investment property.&nbsp;
 
 If you have any questions about investing in real estate, please reach out to me via phone or email. I would love to help you\!&nbsp;
 
