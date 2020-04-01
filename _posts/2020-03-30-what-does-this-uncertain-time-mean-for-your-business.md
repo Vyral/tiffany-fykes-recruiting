@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does a Lockdown Mean For Your Business?
+title: What Does this Uncertain Time Mean for Your Business?
 date: 2020-03-30 18:06:00
 tags:
 excerpt:
