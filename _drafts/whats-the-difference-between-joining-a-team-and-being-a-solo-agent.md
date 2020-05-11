@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/fykes-youtube-15.jpg
 youtube_code: jYPaRvkMEVE
 ---
 
-{% include youtube.html %}What’s the difference between working as an agent on your own and working as a member of an entire team?
+{% include youtube.html %}<center>What’s the difference between working as an agent on your own and working as a member of an entire team?</center>
 
 So what’s the difference between joining a team and working as a solo agent? When it comes to making a choice between the two, there isn’t a right choice, just a right path. It’s different for everyone.
 
