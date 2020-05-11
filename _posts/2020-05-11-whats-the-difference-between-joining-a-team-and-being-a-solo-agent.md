@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's the Difference Between Joining a Team and Being a Solo Agent?
-date:
+date: 2020-05-11 15:35:41
 tags:
 excerpt: >-
   What’s the difference between working as an agent on your own and working as a
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/fykes-youtube-15.jpg
 youtube_code: jYPaRvkMEVE
 ---
 
-{% include youtube.html %}<center>What’s the difference between working as an agent on your own and working as a member of an entire team?</center>
+{% include youtube.html %}
+
+<center>What&rsquo;s the difference between working as an agent on your own and working as a member of an entire team?</center>
+
+&nbsp;
 
 So what’s the difference between joining a team and working as a solo agent? When it comes to making a choice between the two, there isn’t a right choice, just a right path. It’s different for everyone.
 
