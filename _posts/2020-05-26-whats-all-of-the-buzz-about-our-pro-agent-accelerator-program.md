@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s All of the Buzz About Our Pro Agent Accelerator Program?
-date:
+date: 2020-05-26 18:24:45
 tags:
 excerpt: Here’s what our awesome Accelerator program can do for you.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/fykes-youtube-2.jpg
 youtube_code: MiaUYVrFGWY
 ---
 
-{% include youtube.html %}<center>Here’s what our awesome Accelerator program can do for you.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s what our awesome Accelerator program can do for you.&nbsp;</center>
+
+&nbsp;
 
 I hope you’re having a great day (who knows how many it's been since the world was "normal”).&nbsp;&nbsp;
 
