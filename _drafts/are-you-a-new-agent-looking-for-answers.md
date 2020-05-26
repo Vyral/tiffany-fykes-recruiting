@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/fykes-youtube-16.jpg
 youtube_code: Tjde93jeNn8
 ---
 
-{% include youtube.html %}Here’s what you need to know about our upcoming program for new agents.&nbsp;
+{% include youtube.html %}<center>Here’s what you need to know about our upcoming program for new agents.&nbsp;</center>
 
 It's no secret that COVID-19 has turned our world upside down, and I feel for the new real estate agents who are not only trying to figure out a new industry but also navigate a new and unknown world.
 
