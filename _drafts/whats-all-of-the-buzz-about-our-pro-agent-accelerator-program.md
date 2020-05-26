@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/fykes-youtube-2.jpg
 youtube_code: MiaUYVrFGWY
 ---
 
-{% include youtube.html %}Here’s what our awesome Accelerator program can do for you.&nbsp;
+{% include youtube.html %}<center>Here’s what our awesome Accelerator program can do for you.&nbsp;</center>
 
 I hope you’re having a great day (who knows how many it's been since the world was "normal”).&nbsp;&nbsp;
 
