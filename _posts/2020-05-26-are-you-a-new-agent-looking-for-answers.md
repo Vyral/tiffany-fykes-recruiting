@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You a New Agent Looking for Answers?
-date:
+date: 2020-05-26 14:52:47
 tags:
 excerpt: Here’s what you need to know about our upcoming program for new agents.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/fykes-youtube-16.jpg
 youtube_code: Tjde93jeNn8
 ---
 
-{% include youtube.html %}<center>Here’s what you need to know about our upcoming program for new agents.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s what you need to know about our upcoming program for new agents.&nbsp;</center>
+
+&nbsp;
 
 It's no secret that COVID-19 has turned our world upside down, and I feel for the new real estate agents who are not only trying to figure out a new industry but also navigate a new and unknown world.
 
