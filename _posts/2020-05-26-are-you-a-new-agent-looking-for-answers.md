@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You a New Agent Looking for Answers?
-date: 2020-05-26 14:52:47
+date: 2020-05-26 14:52:00
 tags:
 excerpt: Here’s what you need to know about our upcoming program for new agents.
 enclosure:
@@ -25,7 +25,7 @@ I earned my real estate license back in 2009 after the market crashed, so I know
 
 Even though I don't have experience in figuring out a whole new career and life during a pandemic, I am committed to bringing us together to craft an actionable plan. That’s why **I’m excited to introduce our New Agent Accelerator Program, the aim of which is to answer the big questions facing real estate professionals right now**—questions like, “How do we still help buyers and sellers during this time?” and, “How do we find business in this new world?”&nbsp;
 
-This will be a free digital event for agents of any brokerage who have been licensed for a year or less. **You can sign up here for the Accelerator on May 27 from 7 p.m. to 8 p.m. (space is limited).&nbsp;**
+This will be a free digital event for agents of any brokerage who have been licensed for a year or less. **You can sign up here for the Accelerator Program event on May 27 from 7 p.m. to 8 p.m. (space is limited).&nbsp;**
 
 My goal is for you to leave with two things you can do that will dramatically impact your business for the better.&nbsp;
 
