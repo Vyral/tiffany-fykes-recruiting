@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/6-30---tiffany-fykes---yt.jpg
 youtube_code: SXVgKWpfkOA
 ---
 
-{% include youtube.html %}Here’s the best tactic for helping your seller make a clear-minded choice.
+{% include youtube.html %}<center>Here’s the best tactic for helping your seller make a clear-minded choice.</center>
 
 I don’t know about you, but in these crazy COVID-19 times, things are changing almost faster than I’m able to keep up. I get asked this question by my agents frequently: “How do I help my sellers make the right decisions during this pandemic?” **The toughest part about navigating the world today is that there’s so much fear.&nbsp;**
 
