@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combatting Fear With Facts
-date: 2020-06-30 14:20:13
+date: 2020-06-30 14:20:00
 tags:
 excerpt: Here’s the best tactic for helping your seller make a clear-minded choice.
 enclosure:
@@ -21,7 +21,7 @@ youtube_code: SXVgKWpfkOA
 
 &nbsp;
 
-I don’t know about you, but in these crazy COVID-19 times, things are changing almost faster than I’m able to keep up. I get asked this question by my agents frequently: “How do I help my sellers make the right decisions during this pandemic?” **The toughest part about navigating the world today is that there’s so much fear.&nbsp;**
+I don’t know about you, but in these crazy COVID-19 times, things are changing almost faster than I’m able to keep up. I get asked this question by my agents frequently: “How do I help my sellers make the right decisions during this pandemic?” **The toughest part about navigating the world today is that there’s so much fear. &nbsp;**
 
 In any market that creates fear in sellers, I employ the same tried-and-true tactic: Combat the fear with facts. Let your clients know what’s *really* going on in the market—not what their neighbors think is happening, not what the 24-hour news cycle thinks is happening, etc. Position yourself as the economist of choice right now by knowing your market data. For example, I can tell you that just last week, 1,092 homes sold in the seven counties that we service, and 1,089 homes went under contract.&nbsp;
 
