@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combatting Fear With Facts
-date:
+date: 2020-06-30 14:20:13
 tags:
 excerpt: Here’s the best tactic for helping your seller make a clear-minded choice.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/6-30---tiffany-fykes---yt.jpg
 youtube_code: SXVgKWpfkOA
 ---
 
-{% include youtube.html %}<center>Here’s the best tactic for helping your seller make a clear-minded choice.</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s the best tactic for helping your seller make a clear-minded choice.</center>
+
+&nbsp;
 
 I don’t know about you, but in these crazy COVID-19 times, things are changing almost faster than I’m able to keep up. I get asked this question by my agents frequently: “How do I help my sellers make the right decisions during this pandemic?” **The toughest part about navigating the world today is that there’s so much fear.&nbsp;**
 
