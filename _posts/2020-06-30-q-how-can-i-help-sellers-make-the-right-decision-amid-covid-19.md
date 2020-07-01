@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Combatting Fear With Facts
+title: 'Q: How Can I Help Sellers Make the Right Decision Amid COVID-19?'
 date: 2020-06-30 14:20:00
 tags:
 excerpt: Here’s the best tactic for helping your seller make a clear-minded choice.
