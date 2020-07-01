@@ -31,6 +31,6 @@ In any market that creates fear in sellers, I employ the same tried-and-true tac
 
 It’s not enough to just spout numbers, though. Explain to them the underlying trend, like the fact that there are plenty of eager buyers pouring into the market. Encourage and empower them.&nbsp;
 
-**Our team has been looking at data more than we ever have before,** and we’re seeing some amazing things. In Crieve Hall, where we work the most, there was a 12% year-over-year increase in \_\_\_\_\_ in April (Note: April was a month of complete COVID-19 closure, so that’s fantastic news). Whenever you can show people news that’s backed by data, it helps them make the right decision.&nbsp;
+**Our team has been looking at data more than we ever have before,** and we’re seeing some amazing things. In Crieve Hall, where we work the most, there was a 12% year-over-year increase in sales in April (Note: April was a month of complete COVID-19 closure, so that’s fantastic news). Whenever you can show people news that’s backed by data, it helps them make the right decision.&nbsp;
 
 If you have additional questions about the information covered in today’s message, feel free to call or email me. I would love to speak with you.
