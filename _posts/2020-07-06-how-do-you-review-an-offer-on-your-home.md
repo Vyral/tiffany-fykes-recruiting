@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do You Review an Offer on Your Home?
-date:
+date: 2020-07-06 17:50:34
 tags:
 excerpt: >-
   So you’ve already gone through the hassle of preparing and showing your house
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/fykes-youtube-17.jpg
 youtube_code: 0Pn87nCBAsY
 ---
 
-{% include youtube.html %}<center>So you’ve already gone through the hassle of preparing and showing your house and now you have an offer on it—how do you review it?</center>
+{% include youtube.html %}
+
+<center>So you&rsquo;ve already gone through the hassle of preparing and showing your house and now you have an offer on it&mdash;how do you review it?</center>
+
+&nbsp;
 
 If you receive an offer on your for-sale home, you need to consider all the details of the offer. These include which items will remain in the house, the price, the closing date, how much their down payment will be, how the buyer plans to pay for the property, and how far along in the loan process they are.&nbsp;
 
