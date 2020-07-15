@@ -31,7 +31,7 @@ So what’s the difference between joining a team and working as a solo agent? W
 
 On the flip side, **a team model has a little more structure and specialization**. As an agent on a team, you don’t have to do everything—you just have to plug your business into an already running machine, which typically gives you a quicker transition into the business.&nbsp;
 
-Instead of complete control over the whole business, you have team responsibilities and accountability measures to pay attention to. That means you won’t have as much say over your time, but there’s still a lot of flexibility. On our team, we each have morning commitments to take care of, but by noon, agents are all off doing their own things. Bear in mind that **there are also different types of teams, so if one isn’t accommodating for you, it’s possible to find one that will.**
+Instead of complete control over the whole business, you have team responsibilities and accountability measures to pay attention to. That means you won’t have as much say over your time, but there’s still a lot of flexibility. On our team, we each have morning commitments to take care of, but by noon, agents are all off doing their own things. Bear in mind that **there are also different types of teams, so if one isn’t accommodating for you, it’s possible to find one that is.**
 
 If you like the industry, then there’s a way for you to do business so that it works for you and your schedule.&nbsp;
 
