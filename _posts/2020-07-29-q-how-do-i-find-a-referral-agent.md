@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do I Find a Referral Agent?'
-date: 2020-07-29 16:53:19
+date: 2020-07-29 16:53:00
 tags:
 excerpt: Need to find an agent in another area for a client? Here’s how you do it.
 enclosure:
@@ -23,7 +23,7 @@ When you have a client or friend in another city, state, or even country, how do
 
 If I don’t have a referral myself, **I begin by speaking to people I already know who, in turn, may know someone great in that area.** I may meet people at virtual trainings, conferences, and more. Then, if I still can’t get a good recommendation, I’ll start calling brokerages to find out who works in that specific area.&nbsp;
 
-However, I don’t just stop at one agent; I interview them the way I expect clients to interview me. You should ask them how they service their clients and communicate with them, and make sure it aligns with how you run your business. Your clients are going to be expecting the same level of service from the other Realtor that they get from you. We all know there are lousy real estate agents everywhere; you don’t want to recommend one of those.&nbsp;
+However, I don’t just stop at one agent; I interview them the way I expect clients to interview me. You should ask them how they service their clients and communicate with them, and make sure it aligns with how you run your business. Your clients will expect the same level of service from the other Realtor that they get from you. We all know there are lousy real estate agents everywhere; you don’t want to recommend one of those.&nbsp;
 
 {% include pullquote.html %}
 
