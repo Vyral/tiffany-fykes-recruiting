@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do I Find a Referral Agent?'
-date:
+date: 2020-07-29 16:53:19
 tags:
 excerpt: Need to find an agent in another area for a client? Here’s how you do it.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/7-29---tiffany-fykes---yt.jpg
 youtube_code: IvvZG9lx0dc
 ---
 
-{% include youtube.html %}<center>Need to find an agent in another area for a client? Here’s how you do it.</center>
+{% include youtube.html %}
+
+<center>Need to find an agent in another area for a client? Here&rsquo;s how you do it.</center>
+
+&nbsp;
 
 When you have a client or friend in another city, state, or even country, how do you find them a real estate agent?&nbsp;
 
