@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/7-29---tiffany-fykes---yt.jpg
 youtube_code: IvvZG9lx0dc
 ---
 
-{% include youtube.html %}Need to find an agent in another area for a client? Here’s how you do it.
+{% include youtube.html %}<center>Need to find an agent in another area for a client? Here’s how you do it.</center>
 
 When you have a client or friend in another city, state, or even country, how do you find them a real estate agent?&nbsp;
 
