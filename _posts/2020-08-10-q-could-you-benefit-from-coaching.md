@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Could You Benefit From Coaching?'
-date:
+date: 2020-08-10 17:06:32
 tags:
 excerpt: 'If you’re wondering whether to get a real estate coach, here’s my advice.'
 enclosure:
