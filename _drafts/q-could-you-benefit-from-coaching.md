@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/8-10---tiffany-fykes---yt.jpg
 youtube_code: RMoxsg6SYkY
 ---
 
-{% include youtube.html %}If you’re wondering whether to get a real estate coach, here’s my advice.
+{% include youtube.html %}<center>If you’re wondering whether to get a real estate coach, here’s my advice.</center>
 
 A common question I receive from real estate agents is whether they should invest in coaching. I always say that you should invest in coaching if you want to grow and do more. If you’re happy with where your business is and have met your goals, you likely don’t need it. However, **if you want to improve, there is always an advantage to having an outside voice pushing and helping you find your full potential.&nbsp;**
 
