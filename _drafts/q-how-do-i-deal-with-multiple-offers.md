@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/8-24---tiffany-fykes---yt.jpg
 youtube_code: VfY1Tok72J4
 ---
 
-{% include youtube.html %}What’s the trick to dealing with multiple offers in our competitive market?
+{% include youtube.html %}<center>What’s the trick to dealing with multiple offers in our competitive market?</center>
 
 There are three things you can do as a real estate agent to keep a competitive edge in our marketplace:
 
