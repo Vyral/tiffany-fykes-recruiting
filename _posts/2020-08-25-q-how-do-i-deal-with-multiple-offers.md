@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do I Deal With Multiple Offers?'
-date:
+date: 2020-08-25 16:22:50
 tags:
 excerpt: What’s the trick to dealing with multiple offers in our competitive market?
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/8-24---tiffany-fykes---yt.jpg
 youtube_code: VfY1Tok72J4
 ---
 
-{% include youtube.html %}<center>What’s the trick to dealing with multiple offers in our competitive market?</center>
+{% include youtube.html %}
+
+<center>What&rsquo;s the trick to dealing with multiple offers in our competitive market?</center>
+
+&nbsp;
 
 There are three things you can do as a real estate agent to keep a competitive edge in our marketplace:
 
