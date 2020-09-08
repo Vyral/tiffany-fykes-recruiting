@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What 3 Books Are Essential Reading for New Agents?'
-date:
+date: 2020-09-08 16:00:00
 tags:
 excerpt: Here are three books that I think every real estate agent should read.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/9-4---tiffany-fykes---yt.jpg
 youtube_code: bJWNhiUosEs
 ---
 
-{% include youtube.html %}<center>Here are three books that I think every real estate agent should read.</center>
+{% include youtube.html %}
+
+<center>Here are three books that I think every real estate agent should read.</center>
+
+&nbsp;
 
 I was recently asked which books I think are essential reading for real estate agents. That was such a hard question for me—I can think of at least 45 books that agents would benefit from digesting. Today, however, I’ll just choose the three that our team has read, and then two bonus books because picking only three was so difficult.
 
